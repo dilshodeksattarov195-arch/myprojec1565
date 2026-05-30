@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasefender",
+        "uuid": 1795055,
+        "checksum": "39mdk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
